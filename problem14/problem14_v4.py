@@ -1,4 +1,4 @@
-# Project Euler : Problem 14 version 2
+# Project Euler : Problem 14 version 4
 # (http://projecteuler.net/index.php?section=problems&id=14)
 '''
 Problem
@@ -28,7 +28,7 @@ Result
 
 '''
 
-def problem14v3():
+def problem14v4():
     max = 1
     max_number = 1
     for i in range(3, 1000000):
@@ -53,7 +53,7 @@ def sequence(number):
 
 
 if __name__ == "__main__":
-    print problem14v3()
+    print problem14v4()
 
 
 

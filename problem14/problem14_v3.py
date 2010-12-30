@@ -1,4 +1,4 @@
-# Project Euler : Problem 14 version 2
+# Project Euler : Problem 14 version 3
 # (http://projecteuler.net/index.php?section=problems&id=14)
 '''
 Problem
